@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Coffee Beans",
+    "price": 14.99,
+    "description": "Fresh roast Arabica beans.",
+    "image": "/images/coffee.jpg"
+  },
+    {
+    "id": "2",
+    "name": "Coffee Beans",
+    "price": 14.99,
+    "description": "Fresh roast Arabica beans.",
+    "image": "/images/coffee.jpg"
+  },
+    {
+    "id": "3",
+    "name": "Coffee Beans",
+    "price": 14.99,
+    "description": "Fresh roast Arabica beans.",
+    "image": "/images/coffee.jpg"
+  },
+    {
+    "id": "4",
+    "name": "Coffee Beans",
+    "price": 14.99,
+    "description": "Fresh roast Arabica beans.",
+    "image": "/images/coffee.jpg"
+  }
+]
