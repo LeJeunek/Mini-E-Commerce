@@ -1,9 +1,13 @@
+import Form from "react-bootstrap/Form";
+
 const SearchBar = () => {
   return (
-    <div>
-      <input type="text" placeholder="Search..." />
-      <button>Search</button>
-    </div>
+    <Form.Control
+      type="search"
+      placeholder="Search products..."
+      className="w-100 me-2"
+    />
   );
 };
+
 export default SearchBar;

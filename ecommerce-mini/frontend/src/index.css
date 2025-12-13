@@ -4,7 +4,6 @@
   font-weight: 400;
 
   color-scheme: light dark;
-
   background-color: #dbdbdb;
 
   font-synthesis: none;
@@ -12,6 +11,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 .home-page {
   display: flex;
   justify-content: center;
@@ -19,6 +19,7 @@
   margin: 0 auto;
   flex-direction: column;
 }
+
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -29,6 +30,7 @@
   color: white;
   padding: 80px;
 }
+
 .card {
   display: flex;
   justify-content: center;
@@ -37,36 +39,15 @@
   box-shadow: 0 2px #242424, 2px 0 #242424;
 }
 
-.navbar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: #333;
-  color: white;
-  padding: 10px 20px;
-  z-index: 1000;
+.custom-navbar {
+  background-color: #f8f9fa;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
-}
-.nav-links {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-  cursor: pointer;
-}
-.title-block {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  display: flex;
-  justify-content: center;
   align-items: center;
+  width: 100%;
+  margin: 0 auto;
 }
-.title-block img {
-  width: 100px;
-  height: auto;
-  margin-right: 2rem;
+.search-bar {
+  width: 500px;
+  margin-top: 40px;
 }
