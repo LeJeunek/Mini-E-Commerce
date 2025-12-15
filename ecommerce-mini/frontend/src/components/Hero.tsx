@@ -3,9 +3,9 @@ import { Container, Button } from "react-bootstrap";
 const Hero = () => {
   return (
     <section className="hero-section border-bottom">
-      <Container className="py-5">
+      <Container className="py-5 d-flex mt-5">
         <div className="col-lg-8 hero-block">
-          <h1 className="fw-bold mb-3">
+          <h1 className="fw-bold mb-3" style={{ fontSize: "4rem" }}>
             Precision Sealing Solutions for Demanding Environments
           </h1>
 
@@ -25,11 +25,9 @@ const Hero = () => {
       <div className="hero-categories border-top">
         <Container>
           <div className="d-flex gap-4 py-3 flex-wrap">
-            <a href="#">Seals</a>
-            <a href="#">Bearings</a>
-            <a href="#">Custom Machining</a>
-            <a href="#">OEM Services</a>
-            <a href="#">Accessories</a>
+            <a href="#">Piston Seals</a>
+            <a href="#">Rod Seals</a>
+            <a href="#">Wipers</a>
           </div>
         </Container>
       </div>
