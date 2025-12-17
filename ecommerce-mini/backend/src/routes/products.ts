@@ -19,4 +19,17 @@ router.get("/:id", (req, res) => {
     res.json(product);
 });
 
+router.get("/category/:category", (req, res) => {
+    const category = req.params.category;
+    const filteredProducts = (products as Product[]).filter(
+        (p) => p.category === category
+    );
+    res.json(filteredProducts);
+    if(!filteredProducts.length){
+        return res.status(404).json({ message: "No products found in this category" });
+    }
+});
+
+
+
 export default router

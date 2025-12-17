@@ -155,3 +155,32 @@
   font-weight: 600;
   color: #01aefd; /* your primary */
 }
+
+.product-row {
+  display: flex;
+  gap: 1rem;
+  margin-top: 100px !important;
+  padding: 1rem;
+  border: 1px solid #e5e5e5;
+  align-items: center;
+  max-width: fit-content;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product-row-image {
+  width: 120px;
+  height: auto;
+  object-fit: contain;
+}
+
+.product-row-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.product-row-price {
+  font-weight: 600;
+  color: #01aefd;
+}
