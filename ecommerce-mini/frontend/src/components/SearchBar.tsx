@@ -7,9 +7,9 @@ const SearchBar = () => {
       <Form.Control
         type="search"
         placeholder="Search products..."
-        className="w-100  mt-1 search-bar"
+        className="w-100  mt-4 search-bar"
       />
-      <Button className="ms-2 mt-1 search-button">Search</Button>
+      <Button className="ms-2 mt-4 search-button">Search</Button>
     </>
   );
 };

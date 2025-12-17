@@ -1,10 +1,12 @@
+import Navbar from "../components/Navbar";
 import ProductList from "../components/ProductList";
 
-//Want to render the list dependent on category 
+//Want to render the list dependent on category
 
 export default function Products() {
   return (
-    <div>
+    <div className="mb-4">
+      <Navbar />
       <h1>Products</h1>
       <ProductList />
     </div>

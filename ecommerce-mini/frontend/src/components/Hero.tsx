@@ -25,9 +25,9 @@ const Hero = () => {
       <div className="hero-categories border-top">
         <Container>
           <div className="d-flex gap-4 py-3 flex-wrap">
-            <a href="#">Piston Seals</a>
-            <a href="#">Rod Seals</a>
-            <a href="#">Wipers</a>
+            <a href="/products">Piston Seals</a>
+            <a href="/products">Rod Seals</a>
+            <a href="/products">Wipers</a>
           </div>
         </Container>
       </div>
