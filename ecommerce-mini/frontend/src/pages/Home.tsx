@@ -7,7 +7,7 @@ import Reviews from "../components/Reviews";
 
 const Home = () => {
   return (
-    <div className="home-page">
+    <div className="home-page bg-light">
       <Navbar />
       <Hero />
       <IndustryGrid />

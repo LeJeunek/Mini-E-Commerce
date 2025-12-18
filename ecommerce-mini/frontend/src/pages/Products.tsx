@@ -7,7 +7,6 @@ export default function Products() {
   return (
     <div className="mb-4">
       <Navbar />
-      <h1>Products</h1>
       <ProductList />
     </div>
   );

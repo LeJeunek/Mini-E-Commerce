@@ -1,61 +1,37 @@
 [
-  { "id": "1", "name": "PSM Piston Seal", "price": 18.99, "description": "High-performance PSM piston seal.", "image": "/assets/psm-pistonseal.jpg" },
-  { "id": "2", "name": "PSM Piston Seal", "price": 18.99, "description": "High-performance PSM piston seal.", "image": "/assets/psm-pistonseal.jpg" },
-  { "id": "3", "name": "PSM Piston Seal", "price": 18.99, "description": "High-performance PSM piston seal.", "image": "/assets/psm-pistonseal.jpg" },
-  { "id": "4", "name": "PSM Piston Seal", "price": 18.99, "description": "High-performance PSM piston seal.", "image": "/assets/psm-pistonseal.jpg" },
+  { "id": "1", "name": "PSM Piston Seal", "category": "piston", "price": 18.99, "description": "High-performance PSM piston seal.", "image": "/assets/psm-pistonseal.jpg" },
 
-  { "id": "5", "name": "PS1400 Piston Seal", "price": 21.99, "description": "Durable PS1400 piston seal.", "image": "/assets/ps1400-pistonseal.jpg" },
-  { "id": "6", "name": "PS1400 Piston Seal", "price": 21.99, "description": "Durable PS1400 piston seal.", "image": "/assets/ps1400-pistonseal.jpg" },
-  { "id": "7", "name": "PS1400 Piston Seal", "price": 21.99, "description": "Durable PS1400 piston seal.", "image": "/assets/ps1400-pistonseal.jpg" },
-  { "id": "8", "name": "PS1400 Piston Seal", "price": 21.99, "description": "Durable PS1400 piston seal.", "image": "/assets/ps1400-pistonseal.jpg" },
 
-  { "id": "9", "name": "PSC Piston Seal", "price": 19.99, "description": "Compact PSC piston seal.", "image": "/assets/psc-pistonseal.jpg" },
-  { "id": "10", "name": "PSC Piston Seal", "price": 19.99, "description": "Compact PSC piston seal.", "image": "/assets/psc-pistonseal.jpg" },
-  { "id": "11", "name": "PSC Piston Seal", "price": 19.99, "description": "Compact PSC piston seal.", "image": "/assets/psc-pistonseal.jpg" },
-  { "id": "12", "name": "PSC Piston Seal", "price": 19.99, "description": "Compact PSC piston seal.", "image": "/assets/psc-pistonseal.jpg" },
+  { "id": "2", "name": "PS1400 Piston Seal", "category": "piston", "price": 21.99, "description": "Durable PS1400 piston seal.", "image": "/assets/ps1400-pistonseal.jpg" },
 
-  { "id": "13", "name": "MPSA Piston Seal", "price": 22.49, "description": "Heavy-duty MPSA piston seal.", "image": "/assets/mpsa-pistonseal.jpg" },
-  { "id": "14", "name": "MPSA Piston Seal", "price": 22.49, "description": "Heavy-duty MPSA piston seal.", "image": "/assets/mpsa-pistonseal.jpg" },
-  { "id": "15", "name": "MPSA Piston Seal", "price": 22.49, "description": "Heavy-duty MPSA piston seal.", "image": "/assets/mpsa-pistonseal.jpg" },
-  { "id": "16", "name": "MPSA Piston Seal", "price": 22.49, "description": "Heavy-duty MPSA piston seal.", "image": "/assets/mpsa-pistonseal.jpg" },
 
-  { "id": "17", "name": "RTU Rod Seal", "price": 16.99, "description": "Reliable RTU rod seal.", "image": "/assets/rtu-rodseal.jpg" },
-  { "id": "18", "name": "RTU Rod Seal", "price": 16.99, "description": "lorem20", "image": "/assets/rtu-rodseal.jpg" },
-  { "id": "19", "name": "RTU Rod Seal", "price": 16.99, "description": "Reliable RTU rod seal.", "image": "/assets/rtu-rodseal.jpg" },
-  { "id": "20", "name": "RTU Rod Seal", "price": 16.99, "description": "Reliable RTU rod seal.", "image": "/assets/rtu-rodseal.jpg" },
+  { "id": "3", "name": "PSC Piston Seal", "category": "piston", "price": 19.99, "description": "Compact PSC piston seal.", "image": "/assets/psc-pistonseal.jpg" },
 
-  { "id": "21", "name": "RTUB Rod Seal", "price": 17.99, "description": "Enhanced RTUB rod seal.", "image": "/assets/rtub-rodseal.jpg" },
-  { "id": "22", "name": "RTUB Rod Seal", "price": 17.99, "description": "Enhanced RTUB rod seal.", "image": "/assets/rtub-rodseal.jpg" },
-  { "id": "23", "name": "RTUB Rod Seal", "price": 17.99, "description": "Enhanced RTUB rod seal.", "image": "/assets/rtub-rodseal.jpg" },
-  { "id": "24", "name": "RTUB Rod Seal", "price": 17.99, "description": "Enhanced RTUB rod seal.", "image": "/assets/rtub-rodseal.jpg" },
 
-  { "id": "25", "name": "DRU Rod Seal", "price": 18.49, "description": "Precision DRU rod seal.", "image": "/assets/dru-rodseal.jpg" },
-  { "id": "26", "name": "DRU Rod Seal", "price": 18.49, "description": "Precision DRU rod seal.", "image": "/assets/dru-rodseal.jpg" },
-  { "id": "27", "name": "DRU Rod Seal", "price": 18.49, "description": "Precision DRU rod seal.", "image": "/assets/dru-rodseal.jpg" },
-  { "id": "28", "name": "DRU Rod Seal", "price": 18.49, "description": "Precision DRU rod seal.", "image": "/assets/dru-rodseal.jpg" },
+  { "id": "4", "name": "MPSA Piston Seal", "category": "piston", "price": 22.49, "description": "Heavy-duty MPSA piston seal.", "image": "/assets/mpsa-pistonseal.jpg" },
 
-  { "id": "29", "name": "MUKRN Rod Seal", "price": 20.99, "description": "Industrial-grade MUKRN rod seal.", "image": "/assets/mukrn-rodseal.jpg" },
-  { "id": "30", "name": "MUKRN Rod Seal", "price": 20.99, "description": "Industrial-grade MUKRN rod seal.", "image": "/assets/mukrn-rodseal.jpg" },
-  { "id": "31", "name": "MUKRN Rod Seal", "price": 20.99, "description": "Industrial-grade MUKRN rod seal.", "image": "/assets/mukrn-rodseal.jpg" },
-  { "id": "32", "name": "MUKRN Rod Seal", "price": 20.99, "description": "Industrial-grade MUKRN rod seal.", "image": "/assets/mukrn-rodseal.jpg" },
 
-  { "id": "33", "name": "AN Wiper", "price": 12.99, "description": "AN hydraulic wiper.", "image": "/assets/an-wiper.jpg" },
-  { "id": "34", "name": "AN Wiper", "price": 12.99, "description": "AN hydraulic wiper.", "image": "/assets/an-wiper.jpg" },
-  { "id": "35", "name": "AN Wiper", "price": 12.99, "description": "AN hydraulic wiper.", "image": "/assets/an-wiper.jpg" },
-  { "id": "36", "name": "AN Wiper", "price": 12.99, "description": "AN hydraulic wiper.", "image": "/assets/an-wiper.jpg" },
+  { "id": "5", "name": "RTU Rod Seal", "category": "rod", "price": 16.99, "description": "Reliable RTU rod seal.", "image": "/assets/rtu-rodseal.jpg" },
 
-  { "id": "37", "name": "ST Wiper", "price": 13.49, "description": "ST scraper-type wiper.", "image": "/assets/st-wiper.jpg" },
-  { "id": "38", "name": "ST Wiper", "price": 13.49, "description": "ST scraper-type wiper.", "image": "/assets/st-wiper.jpg" },
-  { "id": "39", "name": "ST Wiper", "price": 13.49, "description": "ST scraper-type wiper.", "image": "/assets/st-wiper.jpg" },
-  { "id": "40", "name": "ST Wiper", "price": 13.49, "description": "ST scraper-type wiper.", "image": "/assets/st-wiper.jpg" },
 
-  { "id": "41", "name": "RW Wiper", "price": 14.49, "description": "RW heavy-duty wiper.", "image": "/assets/rw-wiper.jpg" },
-  { "id": "42", "name": "RW Wiper", "price": 14.49, "description": "RW heavy-duty wiper.", "image": "/assets/rw-wiper.jpg" },
-  { "id": "43", "name": "RW Wiper", "price": 14.49, "description": "RW heavy-duty wiper.", "image": "/assets/rw-wiper.jpg" },
-  { "id": "44", "name": "RW Wiper", "price": 14.49, "description": "RW heavy-duty wiper.", "image": "/assets/rw-wiper.jpg" },
+  { "id": "6", "name": "RTUB Rod Seal", "category": "rod", "price": 17.99, "description": "Enhanced RTUB rod seal.", "image": "/assets/rtub-rodseal.jpg" },
 
-  { "id": "45", "name": "MSWS Wiper", "price": 15.99, "description": "MSWS multi-lip wiper seal.", "image": "/assets/msws-wiper.jpg" },
-  { "id": "46", "name": "MSWS Wiper", "price": 15.99, "description": "MSWS multi-lip wiper seal.", "image": "/assets/msws-wiper.jpg" },
-  { "id": "47", "name": "MSWS Wiper", "price": 15.99, "description": "MSWS multi-lip wiper seal.", "image": "/assets/msws-wiper.jpg" },
-  { "id": "48", "name": "MSWS Wiper", "price": 15.99, "description": "MSWS multi-lip wiper seal.", "image": "/assets/msws-wiper.jpg" }
+
+  { "id": "7", "name": "DRU Rod Seal", "category": "rod", "price": 18.49, "description": "Precision DRU rod seal.", "image": "/assets/dru-rodseal.jpg" },
+
+
+  { "id": "8", "name": "MUKRN Rod Seal", "category": "rod", "price": 20.99, "description": "Industrial-grade MUKRN rod seal.", "image": "/assets/mukrn-rodseal.jpg" },
+
+
+  { "id": "9", "name": "AN Wiper", "category": "wiper", "price": 12.99, "description": "AN hydraulic wiper.", "image": "/assets/an-wiper.jpg" },
+
+
+  { "id": "10", "name": "ST Wiper", "category": "wiper", "price": 13.49, "description": "ST scraper-type wiper.", "image": "/assets/st-wiper.jpg" },
+
+
+  { "id": "11", "name": "RW Wiper", "category": "wiper", "price": 14.49, "description": "RW heavy-duty wiper.", "image": "/assets/rw-wiper.jpg" },
+
+
+  { "id": "12", "name": "MSWS Wiper", "category": "wiper", "price": 15.99, "description": "MSWS multi-lip wiper seal.", "image": "/assets/msws-wiper.jpg" }
 ]
+

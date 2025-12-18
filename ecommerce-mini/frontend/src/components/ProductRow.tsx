@@ -1,3 +1,4 @@
+import PurchaseBlock from "./PurchaseBlock";
 import type { Product } from "./types/product";
 
 interface Props {
@@ -18,6 +19,7 @@ export function ProductRow({ product }: Props) {
         <p className="product-row-description">{product.description}</p>
         <p className="product-row-price">${product.price.toFixed(2)}</p>
       </div>
+      <PurchaseBlock />
     </div>
   );
 }
