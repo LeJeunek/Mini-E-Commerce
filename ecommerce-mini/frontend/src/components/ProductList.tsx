@@ -60,11 +60,14 @@ export default function ProductList() {
                 onClick={() => setSelectedCategory(null)}
                 style={{
                   padding: "8px 16px",
+                  marginLeft: "100px",
+                  marginTop: "-60px",
                   backgroundColor: "#6b7280",
                   color: "white",
                   border: "none",
                   borderRadius: "4px",
                   cursor: "pointer",
+                  display: "flex",
                 }}
               >
                 ← Back to Categories
@@ -87,6 +90,7 @@ export default function ProductList() {
               alignItems: "center",
               maxWidth: "1200px",
               margin: "0 auto",
+              flex: "1",
             }}
           >
             {filteredProducts.map((product) => (

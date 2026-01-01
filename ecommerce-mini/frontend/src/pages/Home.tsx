@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import IndustryGrid from "../components/IndustryGrid";
 import Navbar from "../components/Navbar";
@@ -12,6 +13,7 @@ const Home = () => {
       <Hero />
       <IndustryGrid />
       <Reviews />
+      <Footer />
     </div>
   );
 };
